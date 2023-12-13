@@ -28,26 +28,37 @@ with a simplified user friendly interface .
 
 ## Screenshots
 
+> Supabase tables schema:
+
+![tables-schema](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/f9ca29d5-be3d-433f-ae46-43baadae4eca)
+
 > Dashboard:
 
-![dashboard_darkmode](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/2f547dba-01ea-4eff-8a5a-fa127f640dc0)
-![dashboard_light](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/44d737a1-93b0-446e-9778-8e8aeefe7d0b)
+![dashligh](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/4003fd0b-90c8-432e-9b25-3a1a248cb7d5)
+![dashdark](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/b90a1105-8ea1-4119-9c47-5585b237cea6)
 
 
-> Cabins & add new cabin form : 
+> Cabins & add new cabin form :
 
-![cabins](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/9132ccc3-da2f-4da7-8dd3-551314cce151)
-![addnewcabin](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/57d84844-cc91-4753-b253-0492aa8cedad)
+![cabins](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/b6bd4cc0-eb91-4fea-b23c-8dde21ce66d4)
+![add-cabin](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/5a08f4ed-9c64-4bc2-a741-044df47eb939)
+
 
 > Bookings & booking details :
 
-![bookings](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/b35e2dd0-c9bb-45e5-867f-7352d8244c01)
+![bookings](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/4072d39a-62e1-4e94-b24d-17702c1c8d9b)
 ![booking-details](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/457d5e71-c6f8-42e3-b456-0aad4ebb4874)
+![booking-delete](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/e53ab27e-f119-4d45-9983-caba11de2ef2)
 
-> Settings and user sign up form :
+> login & user sign up page :
+
+![login](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/5c85ca5b-6982-4b26-9d73-867546ae7e96)
+![create-new-user](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/e757bf50-2eb5-4850-ae01-58b301938308)
+
+> Settings & user account edit page :
 
 ![settings](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/e80143c5-ecfd-4a51-a6a6-30c1fb121606)
-![users](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/78ba8358-5a73-4780-8634-0b43212eab85)
+![update-account](https://github.com/AhmedTharwat-AT/the-wild-oasis/assets/89677139/0d663dbb-0dea-4702-b89e-8d0b08193e38)
 
 
 
