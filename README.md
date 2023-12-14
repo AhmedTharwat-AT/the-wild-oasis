@@ -11,9 +11,8 @@ with a simplified user friendly interface .
 
 > ### Tools and features used
 
-* Supabase cloud database - this project data for guests , cabins , users and bookings were managed
-  using Supabase cloud database , and it provide us with RLS policies that grants access to database
-  and storage only to authorized users .
+* Supabase cloud database - project data for guests , cabins , users and bookings were managed using Supabase cloud sql database .
+  it provided me with RLS policies that grants access to database and storage only to authorized users .
   
 * Darkmode - a feature that no website or app should not implement that enhance the user experience .
 
