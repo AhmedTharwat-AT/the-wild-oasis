@@ -1,8 +1,9 @@
 # The wild oasis hotel
 
-This is the final project from jonas schmedtmann  - Ultimate React Course .
-i took this course as a challenge and wrote the code rquired to manipulate data first then followed jonas approach and changed the required code accor accordingly.
-this project helped me to practice how to plan for a big project and the steps required for each one . i got to practice many new libraries and how to handle data between them , react design patterns and how they can be used to save alot of time , it was fun and challenging
+This is the final project from jonas schmedtmann  - Ultimate React Course  which i coded along the course .
+this project helped me to practice how to plan for a big project and the steps required for each one .
+i got to practice many new libraries and how to handle data between them and the use of react design patterns and how they can help to save alot of time .
+it was fun and challenging project .
 
 ## Project brief 
 this is a web application for a hotel staff to check-in and check-out guests and manage bookings , edit or add cabins and add new users
