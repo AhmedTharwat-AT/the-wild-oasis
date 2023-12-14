@@ -10,21 +10,20 @@ with a simplified user friendly interface .
 
 > ### Tools and features used
 
-* Supabase cloud database -this project data for guests , cabins , users and bookings were managed using `Supabase` cloud database , and it provide us
-  with RLS that grants access only to authorized users .
+* Supabase cloud database - this project data for guests , cabins , users and bookings were managed
+  using Supabase cloud database , and it provide us with RLS policies that grants access to database
+  and storage only to authorized users .
   
-* Recharts.js library - users get to access an amazing dashboard for occupied cabins duration and cash income in a specific
-  time period with a beautiful charts .
-
-* React Query - used to access and manipulate remote data in database , it provide use with cached data and out of the box data handling states .
-
-* React Router - no react project manages its different routes without the help of this amazing library with its helpful functions .
-
-* Styled-components - my first project using this amazing css-in-js library that really makes each component reusable .
-
-* Compound-components - a design pattern used to make components work together to achieve a task .
-
 * Darkmode - a feature that no website or app should not implement that enhance the user experience .
+
+* React Query 
+* React Router
+* Recharts.js
+* Styled-components 
+* React Hook Form
+* React Hot Toast
+* React Error Boundary
+* React icons
 
 ## Screenshots
 
